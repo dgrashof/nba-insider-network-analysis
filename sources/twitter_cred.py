@@ -1,0 +1,5 @@
+#api credentials
+consumer_key='kIW9cjjTSHni7TrClOy9BH4Vm'
+consumer_secret='4whzN1bduaXnGz0tbpiHPbdiKU9yUpBBYldjU96WcjknMPa64s'
+access_token_key='1243965810688827392-2rG5ctgxuvDraiRIMFPaFIarD3Rd9x'
+access_token_secret='1Ys7TWDaNEANJtChFgiGjysFtXujO2BBY2Xsp4hVeWszN'
